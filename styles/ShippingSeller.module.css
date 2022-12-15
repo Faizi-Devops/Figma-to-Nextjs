@@ -1,0 +1,54 @@
+.background_box{
+    
+    margin-top: 70px;
+    
+
+}
+.mid_div{
+    width: 53%;
+    margin: auto;
+
+}
+.heading{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+color: black;
+
+
+}
+.paragraph{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #677088;
+}
+.items{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+
+
+color: #677088;
+}
+.another{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+
+
+color: #677088;
+
+}
+.image{
+    width: 50%;
+  height: auto;
+}
