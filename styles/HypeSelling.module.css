@@ -1,0 +1,45 @@
+.background{
+    background-color: #F9FAFD;
+    height: auto;
+}
+.heading{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 48px;
+
+
+text-align: center;
+padding-top: 45px;
+
+
+color: #020202;
+
+}
+.secondiv{
+    width: 46%;
+    margin: auto;
+}
+.hyehead{
+    padding-bottom: 20px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 130%;
+
+border-bottom: 2px dashed #677088;
+
+color: #020202;
+}
+.hyepara{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+
+
+color: #677088;
+}

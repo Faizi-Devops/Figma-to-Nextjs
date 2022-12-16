@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import styles from "../.././styles/Navbar.module.css"
+import Link from 'next/link'
 const Navbar = () =>{
     return(
         <div>
@@ -45,8 +46,8 @@ const Navbar = () =>{
           </ul>
         </li>
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">SELLER REQUEST FORM
-          </a>
+          <Link className="nav-link active" aria-current="page" href="/ShippingBuyer">SELLER REQUEST FORM
+          </Link>
     </li>
       </ul>
       <form className="d-flex" role="search">
