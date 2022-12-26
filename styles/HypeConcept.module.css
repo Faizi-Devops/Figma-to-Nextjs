@@ -147,3 +147,43 @@ line-height: 120%;
 color: #020202;
 
 }
+.sixthdiv{
+    padding-top: 50px;
+}
+.sixthpara{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 43px;
+color: #020202;
+}
+.sixthparag{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+/* text */
+
+color: #677088;
+}
+.sixthbold{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+
+
+color: #677088;
+
+}
+.sixthimage{
+    padding-top: 20px;
+    width: 100%;
+    overflow: hidden;
+}

@@ -92,7 +92,7 @@ const HypeConcept = () => {
                     <div className={`row ${styles.fourthdiv}`}>
                         <div className='col-sm-6 col-md-6 col-sm-12'>
                             <Image className={styles.img}
-                                
+
                                 src="/Frame.jpg"
                                 alt="Picture of the author"
                                 width={500}
@@ -104,11 +104,34 @@ const HypeConcept = () => {
                             <p className={styles.fifthpara}>Utopia</p>
                             <p className={styles.thirdparag}>In a utopian marketplace, the best option would be to move a bunch of footwear/apparel or else, in bulk (one shot), to: another reseller, store or wholesaler somewhere on planet earth</p>
                             <p className={styles.thirdparag}>
- 
- Well, there are no B2B marketplaces anywhere that deal with: limited/ hyped goods, or a marketplace where stores (with no brand account) & reseller could buy from (in bulk prices footwear, apparel, accessories) without any boundaries or questions! So let's try and create that platform: so other store owners & resellers/wholesalers worldwide could profit from!</p>
 
-                        
+                                Well, there are no B2B marketplaces anywhere that deal with: limited/ hyped goods, or a marketplace where stores (with no brand account) & reseller could buy from (in bulk prices footwear, apparel, accessories) without any boundaries or questions! So let's try and create that platform: so other store owners & resellers/wholesalers worldwide could profit from!</p>
+
+
                         </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <div className='container'>
+                <div className={`${styles.sixthdiv} row`}>
+                    <div className='col-lg-6 col-sm-12 col-md-6'>
+                        <p className={styles.sixthpara}>Reality</p>
+                        <p className={styles.sixthparag}>Stores are flooded with quantities of the same items, so what do they <br /> do? They flip them on well known resell platform/marketplace; and we <br /> are all very familiar with these marketplaces... . How can you sell some <br /> Yeezys or Nike, when buyers/bidders are offering a price of 20-35% under <br /> retail? Simple, if you are not the store yourself or a person who bought <br /> them at roughly 35% to 40% off retail... then forget it!</p>
+                        <p className={styles.sixthbold}>So, as a store owner, we see 3 options :</p>
+                        <p className={styles.sixthparag}>1. &nbsp;&nbsp;Sell all your sleeping inventory on certain platforms one by one etc. <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (and for sure , some models will not even sell ...so it’s a loss).Shipping <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; will take a while, and you are wasting time & labor...</p>
+
+                    </div>
+                    <div className='col-lg-6 col-md-6 col-sm-12'>
+                        <Image className={styles.sixthimage}
+                            
+                            src="/9.jpg"
+                            alt="Picture of the author"
+                            width={500}
+                            height={340}
+                        />
 
                     </div>
 
