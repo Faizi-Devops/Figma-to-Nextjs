@@ -62,6 +62,9 @@ const HypeConcept = () => {
                 </div>
 
             </div>
+            <div className={styles.thirdiv}>
+
+            </div>
 
         </div>
     )
