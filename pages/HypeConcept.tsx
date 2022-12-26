@@ -212,6 +212,40 @@ const HypeConcept = () => {
                 </div>
 
             </div>
+            <div className=' container'>
+                <div className='row'>
+                    <div className={`col-lg-4 col-md-4 col-sm-12 ${styles.rowing} mt-2`}>
+                    <Image
+      
+      src="/14.jpg"
+      alt="Picture of the author"
+      width={50}
+      height={50}
+    />
+    <p className={styles.prospara}>FREEDOM</p>
+    <p className={styles.prosparag}>Freedom for Stores/Resellers to list in bulk any <br /> inventory they want at any time they want! Inventory <br /> should sell faster this way! Better than offering a <br /> 10%-35% off coupons on their website and selling <br /> them one item at a time... let’s move the inventory <br /> ASAP! Stores are not museums: Boxes, tape, <br /> rent,electricity bill, payroll: those have a cost!</p>
+
+                    </div>
+                    <div className={`col-lg-4 col-md-4 col-sm-12 ${styles.rowing} mt-2`}>
+                    <Image
+      
+      src="/15.jpg"
+      alt="Picture of the author"
+      width={50}
+      height={50}
+    />
+    <p className={styles.prospara}>”FLA$H FLIPPING”</p>
+    <p className={styles.prosparag}>This option (for the top buyers only) allows you to re- <br /> flip a bundle or amount of items ( by adding a margin <br /> per pair) ,you just purchased , and flip it back on our <br /> platform for a limited time (1 hour window)! Creating <br /> a new avenue of profit for our clients! The profit/ <b></b> commission is paid right away if the bundle sells ! <br /> Making money on a click of a button .The new bulk <br /> traders have arrived !</p>
+
+                    </div>
+                    
+                   
+                   
+
+                </div>
+
+            </div>
+            <br /><br />
 
         </div>
     )
