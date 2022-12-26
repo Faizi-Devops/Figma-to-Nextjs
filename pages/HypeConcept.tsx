@@ -139,6 +139,59 @@ const HypeConcept = () => {
 
             </div>
 
+            <div className='container'>
+                <div className={`${styles.sixthdiv} row`}>
+                    <div className='col-lg-6 col-sm-12 col-md-6'>
+                    <Image className={styles.sixthimage}
+                            
+                            src="/10.jpg"
+                            alt="Picture of the author"
+                            width={500}
+                            height={340}
+                        />
+                       
+
+
+
+                    </div>
+                    <div className='col-lg-6 col-md-6 col-sm-12'>
+                        <p className={`${styles.sixthparag} mt-5`}>2. &nbsp;&nbsp;Wholesale them to some entity or reseller you trust.But again they <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; might only want to buy the good and the average stuff, that they can <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; flip.</p>
+                        <p className={styles.sixthparag}>3. &nbsp;&nbsp;Last but not least : Sell them on a platform in bulk anonymously, with <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or without a discount ! Allowing your Hyped or general merchandise <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; release inventory to reach multiple stores/resellers in the USA and <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; worldwide . Forget the classic individual B2C (business to consumer) <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; model and , aim at other stores/ wholesalers .The Hype around the <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; footwear, Apparel, Accessory resell market is wide and active! There <br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are many options out there that need to be exploited!</p>
+                        
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div >
+                <p className={styles.paragraph}>The PROS of such platform</p>
+
+            </div>
+            <div className=' container'>
+                <div className='row'>
+                    <div className={`col-lg-6 ${styles.rowing}`}>
+                    <Image
+      
+      src="me.png"
+      alt="Picture of the author"
+      width={500}
+      height={500}
+    />
+
+                    </div>
+                    <div className="col-lg-6">
+
+                    </div>
+                    <div className="col-lg-6">
+
+                    </div>
+
+                </div>
+
+            </div>
+
         </div>
     )
 }

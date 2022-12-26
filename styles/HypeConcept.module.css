@@ -187,3 +187,22 @@ color: #677088;
     width: 100%;
     overflow: hidden;
 }
+.paragraph{
+    padding-top: 43px;
+    text-align: center;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+text-align: center;
+
+/* black */
+
+color: #020202;
+}
+.rowing{
+    
+}
