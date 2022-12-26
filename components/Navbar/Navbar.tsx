@@ -18,35 +18,25 @@ const Navbar = () =>{
     </button>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-      <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            HYPEINDUSTRY
-          </a>
-          <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Selling</a></li>
-            <li><a className="dropdown-item" href="#">Buying</a></li>
-            <li><a className="dropdown-item" href="#">Concept</a></li>
-            
-          </ul>
-        </li>
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#">
-            HYPEINDUSTRY
-          </a>
-          
-        </li>
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            SHIPPING
-          </a>
-          <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Seller</a></li>
-            <li><a className="dropdown-item" href="#">Buyer</a></li>
-            
-          </ul>
-        </li>
+     
+      <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" href="/HypeSelling">HYPE SELLER
+          </Link>
+    </li>
+    <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" href="/">HYPER BUYER
+          </Link>
+    </li>
+    <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" href="/ShippingSeller">HYPE SELLING
+          </Link>
+    </li>
+    <li className="nav-item">
+          <Link className="nav-link active" aria-current="page" href="/ShippingBuyer">HYPE BUYING
+          </Link>
+    </li>
         <li className="nav-item">
-          <Link className="nav-link active" aria-current="page" href="/ShippingBuyer">SELLER REQUEST FORM
+          <Link className="nav-link active" aria-current="page" href="/HypeConcept">HYPE CONCEPT
           </Link>
     </li>
       </ul>
