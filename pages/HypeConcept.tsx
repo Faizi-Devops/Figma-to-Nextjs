@@ -65,7 +65,7 @@ const HypeConcept = () => {
             <div className={styles.thirdiv}>
                 <div className='container'>
                     <div className={`${styles.upper} row`}>
-                        <div className='col-lg-6'>
+                        <div className='col-lg-6 col-md-6 col-sm-12'>
                             <p className={styles.thirdpara}>Always the same issue through the <br /> years </p>
                             <p className={styles.thirdparag}>Many years have past of doing this bulk /wholesale trading business...</p>
                             <p className={styles.thirdparag}>
@@ -75,6 +75,39 @@ const HypeConcept = () => {
                             </p>
                             <p className={styles.thirdparag}>Well the answer was: “We don’t have any clients for those items, or let me ask around”</p>
 
+                        </div>
+                        <div className='col-lg-6 col-md-6 col-sm12  text-center'>
+                            <Image className={`${styles.imagess}`}
+
+                                src="/Group.jpg"
+                                alt="Picture of the author"
+                                width={200}
+                                height={200}
+                            />
+
+
+                        </div>
+
+                    </div>
+                    <div className={`row ${styles.fourthdiv}`}>
+                        <div className='col-sm-6 col-md-6 col-sm-12'>
+                            <Image className={styles.img}
+                                
+                                src="/Frame.jpg"
+                                alt="Picture of the author"
+                                width={500}
+                                height={300}
+                            />
+
+                        </div>
+                        <div className='col-lg-5 col-md-6 col-sm-12'>
+                            <p className={styles.fifthpara}>Utopia</p>
+                            <p className={styles.thirdparag}>In a utopian marketplace, the best option would be to move a bunch of footwear/apparel or else, in bulk (one shot), to: another reseller, store or wholesaler somewhere on planet earth</p>
+                            <p className={styles.thirdparag}>
+ 
+ Well, there are no B2B marketplaces anywhere that deal with: limited/ hyped goods, or a marketplace where stores (with no brand account) & reseller could buy from (in bulk prices footwear, apparel, accessories) without any boundaries or questions! So let's try and create that platform: so other store owners & resellers/wholesalers worldwide could profit from!</p>
+
+                        
                         </div>
 
                     </div>

@@ -112,3 +112,38 @@ line-height: 150%;
 
 color: #677088;
 }
+.imagess{
+    width: 80%;
+  height: 300px;
+    
+  overflow: "hidden"
+
+}
+@media screen and (max-width: 380px) {
+    .imagess{width: 100%;overflow: hidden;}
+    .image{width: 100%;overflow: hidden;}
+    
+  }
+.fourthdiv{
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+.img{
+    width: 100%;
+    overflow: hidden;
+}
+.fifthpara{
+    padding-top: 15px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 120%;
+/* identical to box height, or 36px */
+
+
+/* black */
+
+color: #020202;
+
+}
