@@ -204,5 +204,28 @@ text-align: center;
 color: #020202;
 }
 .rowing{
-    
+
+}
+.prospara{
+    padding-top: 20px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 120%;
+color: black;
+}
+.prosparag{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+letter-spacing: 0.02em;
+
+/* text */
+
+color: #505050;
 }

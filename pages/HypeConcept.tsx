@@ -171,22 +171,43 @@ const HypeConcept = () => {
             </div>
             <div className=' container'>
                 <div className='row'>
-                    <div className={`col-lg-6 ${styles.rowing}`}>
+                    <div className={`col-lg-4 col-md-4 col-sm-12 ${styles.rowing} mt-2`}>
                     <Image
       
-      src="me.png"
+      src="/11.jpg"
       alt="Picture of the author"
-      width={500}
-      height={500}
+      width={50}
+      height={50}
     />
+    <p className={styles.prospara}>SHIPPING</p>
+    <p className={styles.prosparag}>Sellers (stores and resellers) do not need to worry <br /> about shipment.We use the main carrier with tracking <br /> all the time !</p>
 
                     </div>
-                    <div className="col-lg-6">
+                    <div className={`col-lg-4 col-md-4 col-sm-12 ${styles.rowing} mt-2`}>
+                    <Image
+      
+      src="/12.jpg"
+      alt="Picture of the author"
+      width={50}
+      height={50}
+    />
+    <p className={styles.prospara}>ANONYMITY</p>
+    <p className={styles.prosparag}>By using this platform, nobody knows who the sellers <br /> are. Anonymity is respected!</p>
 
                     </div>
-                    <div className="col-lg-6">
+                    <div className={`col-lg-4 col-md-4 col-sm-12 ${styles.rowing} mt-2`}>
+                    <Image
+      
+      src="/13.jpg"
+      alt="Picture of the author"
+      width={50}
+      height={50}
+    />
+    <p className={styles.prospara}>BRAND INTEGRITY</p>
+    <p className={styles.prosparag}> <br />Reputable brands dislike to see their product sell for <br /> significantly under retail and doing so, may cause <br /> stores to lose their accounts.</p>
 
                     </div>
+                   
 
                 </div>
 
