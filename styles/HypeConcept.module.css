@@ -79,5 +79,36 @@ line-height: 150%;
 color: #677088;
 }
 .thirdiv{
-    
+    margin-top: 45px;
+    background-color: #F9FAFD;
+}
+.upper{
+    padding-top: 55px;
+}
+.thirdpara{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 120%;
+/* or 36px */
+
+
+/* black */
+
+color: #020202;
+
+}
+.thirdparag{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+/* text */
+
+color: #677088;
 }

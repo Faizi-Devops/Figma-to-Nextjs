@@ -51,8 +51,8 @@ const HypeConcept = () => {
 
                         </div>
                         <div className='col-lg-6 col-md-6 col-sm12'>
-                        <p className={`${styles.secondpara}`}>20 years of relationships + experience</p>
-                        <p className={styles.secondparag}>The idea of building a B2B marketplace, came to us a few years ago. <br /> Experiencing the process of buying and selling in bulk: footwear, apparel <br /> etc... since early 2002 we’ve encountered issues and restrictions , we <br /> also faced lots of question from sellers and buyers, shipping issues etc... <br /> But at the end of this journey, we are now providing answers  and <br /> solutions that will help our network and partners!</p>
+                            <p className={`${styles.secondpara}`}>20 years of relationships + experience</p>
+                            <p className={styles.secondparag}>The idea of building a B2B marketplace, came to us a few years ago. <br /> Experiencing the process of buying and selling in bulk: footwear, apparel <br /> etc... since early 2002 we’ve encountered issues and restrictions , we <br /> also faced lots of question from sellers and buyers, shipping issues etc... <br /> But at the end of this journey, we are now providing answers  and <br /> solutions that will help our network and partners!</p>
 
 
                         </div>
@@ -63,6 +63,23 @@ const HypeConcept = () => {
 
             </div>
             <div className={styles.thirdiv}>
+                <div className='container'>
+                    <div className={`${styles.upper} row`}>
+                        <div className='col-lg-6'>
+                            <p className={styles.thirdpara}>Always the same issue through the <br /> years </p>
+                            <p className={styles.thirdparag}>Many years have past of doing this bulk /wholesale trading business...</p>
+                            <p className={styles.thirdparag}>
+
+                                And it is always the same questions that came to us from our suppliers: <br /> “Hey can you move apparel? I have too much of this brand etc...”, or “Can <br /> you buy any accessories?”, “Can you move soccer shoes?”, “I received <br /> another shipment of this model ;can you buy more or help me move more <br /> now?” etc...
+
+                            </p>
+                            <p className={styles.thirdparag}>Well the answer was: “We don’t have any clients for those items, or let me ask around”</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
 
             </div>
 
